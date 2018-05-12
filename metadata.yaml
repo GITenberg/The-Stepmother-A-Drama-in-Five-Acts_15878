@@ -1,0 +1,35 @@
+_repo: The-Stepmother-A-Drama-in-Five-Acts_15878
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2005-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- 19th century -- Drama'
+- !lcsh 'French drama -- 19th century -- Translations into English'
+title: The Stepmother, A Drama in Five Acts
+url: http://www.gutenberg.org/ebooks/15878
