@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15878#The-Stepmother-A-Drama-in-Five-Acts
 gutenberg_issued: '2005-05-23'
 gutenberg_type: Text
 identifiers:
